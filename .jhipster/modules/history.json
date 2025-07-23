@@ -1,0 +1,13 @@
+{
+  "actions" : [ {
+    "module" : "init",
+    "date" : "2025-07-23T11:46:40.525538300Z",
+    "properties" : {
+      "projectName" : "iHexa",
+      "baseName" : "ihexa",
+      "nodePackageManager" : "npm",
+      "endOfLine" : "crlf",
+      "indentSize" : 2
+    }
+  } ]
+}
