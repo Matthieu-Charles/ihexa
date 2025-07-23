@@ -29,5 +29,15 @@
       "endOfLine" : "crlf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "vue-core",
+    "date" : "2025-07-23T11:46:41.432473400Z",
+    "properties" : {
+      "projectName" : "iHexa",
+      "baseName" : "ihexa",
+      "nodePackageManager" : "npm",
+      "endOfLine" : "crlf",
+      "indentSize" : 2
+    }
   } ]
 }
