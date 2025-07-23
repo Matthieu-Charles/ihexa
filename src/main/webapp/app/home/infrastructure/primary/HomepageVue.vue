@@ -1,28 +1,14 @@
 <template>
   <div id="app">
-    <img
-      alt="Vue logo"
-      src="../../../../content/images/VueLogo.png"
-    />
+    <img alt="Vue logo" src="../../../../content/images/VueLogo.png" />
     <br />
-    <img
-      alt="JHipster logo"
-      src="../../../../content/images/JHipster-Lite-neon-green.png"
-    />
+    <img alt="JHipster logo" src="../../../../content/images/JHipster-Lite-neon-green.png" />
     <h1>{{ appName }}: Vue + TypeScript + Vite</h1>
 
     <p>
-      <a
-        href="https://vite.dev/guide/features.html"
-        target="_blank"
-        rel="noopener"
-      > Vite Documentation </a>
+      <a href="https://vite.dev/guide/features.html" target="_blank" rel="noopener"> Vite Documentation </a>
       |
-      <a
-        href="https://vuejs.org/"
-        target="_blank"
-        rel="noopener"
-      >Vue Documentation</a>
+      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue Documentation</a>
     </p>
 
     <p>

@@ -1,43 +1,48 @@
 {
-  "actions" : [ {
-    "module" : "init",
-    "date" : "2025-07-23T11:46:40.525538300Z",
-    "properties" : {
-      "projectName" : "iHexa",
-      "baseName" : "ihexa",
-      "nodePackageManager" : "npm",
-      "endOfLine" : "crlf",
-      "indentSize" : 2
+  "actions": [
+    {
+      "module": "init",
+      "date": "2025-07-23T11:46:40.525538300Z",
+      "properties": {
+        "projectName": "iHexa",
+        "baseName": "ihexa",
+        "nodePackageManager": "npm",
+        "endOfLine": "crlf",
+        "indentSize": 2
+      }
+    },
+    {
+      "module": "prettier",
+      "date": "2025-07-23T11:46:41.070016700Z",
+      "properties": {
+        "projectName": "iHexa",
+        "baseName": "ihexa",
+        "nodePackageManager": "npm",
+        "endOfLine": "crlf",
+        "indentSize": 2
+      }
+    },
+    {
+      "module": "typescript",
+      "date": "2025-07-23T11:46:41.231202100Z",
+      "properties": {
+        "projectName": "iHexa",
+        "baseName": "ihexa",
+        "nodePackageManager": "npm",
+        "endOfLine": "crlf",
+        "indentSize": 2
+      }
+    },
+    {
+      "module": "vue-core",
+      "date": "2025-07-23T11:46:41.432473400Z",
+      "properties": {
+        "projectName": "iHexa",
+        "baseName": "ihexa",
+        "nodePackageManager": "npm",
+        "endOfLine": "crlf",
+        "indentSize": 2
+      }
     }
-  }, {
-    "module" : "prettier",
-    "date" : "2025-07-23T11:46:41.070016700Z",
-    "properties" : {
-      "projectName" : "iHexa",
-      "baseName" : "ihexa",
-      "nodePackageManager" : "npm",
-      "endOfLine" : "crlf",
-      "indentSize" : 2
-    }
-  }, {
-    "module" : "typescript",
-    "date" : "2025-07-23T11:46:41.231202100Z",
-    "properties" : {
-      "projectName" : "iHexa",
-      "baseName" : "ihexa",
-      "nodePackageManager" : "npm",
-      "endOfLine" : "crlf",
-      "indentSize" : 2
-    }
-  }, {
-    "module" : "vue-core",
-    "date" : "2025-07-23T11:46:41.432473400Z",
-    "properties" : {
-      "projectName" : "iHexa",
-      "baseName" : "ihexa",
-      "nodePackageManager" : "npm",
-      "endOfLine" : "crlf",
-      "indentSize" : 2
-    }
-  } ]
+  ]
 }
