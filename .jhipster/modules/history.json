@@ -9,5 +9,15 @@
       "endOfLine" : "crlf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "prettier",
+    "date" : "2025-07-23T11:46:41.070016700Z",
+    "properties" : {
+      "projectName" : "iHexa",
+      "baseName" : "ihexa",
+      "nodePackageManager" : "npm",
+      "endOfLine" : "crlf",
+      "indentSize" : 2
+    }
   } ]
 }
