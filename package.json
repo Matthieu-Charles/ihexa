@@ -6,6 +6,8 @@
   "license": "UNLICENSED",
   "type": "module",
   "scripts": {
+    "test:component": "start-server-and-test dev http://localhost:9000 'cypress open --e2e --config-file src/test/webapp/component/cypress-config.ts'",
+    "test:component:headless": "start-server-and-test dev http://localhost:9000 'cypress run --headless --config-file src/test/webapp/component/cypress-config.ts'",
     "build": "npm-run-all build:*",
     "build:tsc": "vue-tsc -p tsconfig.build.json --noEmit",
     "build:vite": "vite build --emptyOutDir",
@@ -30,6 +32,9 @@
     "vue-router": "4.5.1"
   },
   "devDependencies": {
+    "cypress": "14.5.2",
+    "eslint-plugin-cypress": "5.1.0",
+    "start-server-and-test": "2.0.12",
     "@eslint/js": "9.31.0",
     "@prettier/plugin-xml": "3.4.2",
     "@typescript-eslint/eslint-plugin": "8.37.0",
