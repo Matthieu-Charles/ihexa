@@ -49,5 +49,15 @@
       "baseName" : "ihexa",
       "endOfLine" : "crlf"
     }
+  }, {
+    "module" : "ts-loader",
+    "date" : "2025-07-31T13:34:44.194258Z",
+    "properties" : {
+      "projectName" : "iHexa",
+      "nodePackageManager" : "npm",
+      "indentSize" : 2,
+      "baseName" : "ihexa",
+      "endOfLine" : "crlf"
+    }
   } ]
 }
